@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @me-45
+- 👋 Hi, I’m @4onlyme
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Machine learning
 <!-- - 💞️ I’m looking to collaborate on ... -->
